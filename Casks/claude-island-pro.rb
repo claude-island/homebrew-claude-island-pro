@@ -1,6 +1,6 @@
 cask "claude-island-pro" do
-  version "1.0.0"
-  sha256 "1607c4fb4b6f479f5e89c3ccfd4609dd9a073ae75bbb3862e7f36615260d2ace"
+  version "1.0.1"
+  sha256 "b6c58de46fdd61fdddebad82dacab08190226c3bc87c1ac439506ed94c0aef1e"
 
   url "https://github.com/claude-island/ClaudeIsland/releases/download/v#{version}/ClaudeIsland.dmg"
   name "Claude Island"
