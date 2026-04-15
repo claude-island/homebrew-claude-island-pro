@@ -1,4 +1,4 @@
-cask "claude-island" do
+cask "claude-island-pro" do
   version "1.0.0"
   sha256 "1607c4fb4b6f479f5e89c3ccfd4609dd9a073ae75bbb3862e7f36615260d2ace"
 
